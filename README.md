@@ -1,2 +1,3 @@
-The Odin Project
+The Odin Project.
+
 Clone Google's homepage
